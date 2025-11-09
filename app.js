@@ -1,6 +1,4 @@
-/*----- constants -----*/
-
-/*----- state variables -----*/
+/*----- variables -----*/
 let state = {
   boredom: 0,
   hunger: 0,
